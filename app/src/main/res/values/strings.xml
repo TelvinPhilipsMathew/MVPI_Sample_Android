@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVPI Sample</string>
+    <string name="no_internet_connection">No Internet</string>
+    <string name="error_email">Error email</string>
+    <string name="error_password">error password</string>
+    <string name="unknown_api_error">Unknown api error</string>
+    <string name="message_not_client_user">Not client</string>
+</resources>
